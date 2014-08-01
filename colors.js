@@ -3,14 +3,14 @@ var mlvlColors = {
 
   'highContrast' :
     [
+      '#2980B9', // belize hole
+      '#16A085', // green sea
+      '#8E44AD', // wisteria
+      '#E67E22', // carrot
+      '#2C3E50', // midnight blue
       '#27AE60', // nephritis
       '#D35400', // pumpkin
-      '#2980B9', // belize hole
       '#C0392B', // pomegranate
-      '#8E44AD', // wisteria
-      '#2C3E50', // midnight blue
-      '#E67E22', // carrot
-      '#16A085', // green sea
     ],
     'turquoise': '#1abc9c',
     'emerald': '#2ecc71',
