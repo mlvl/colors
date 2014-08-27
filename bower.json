@@ -1,5 +1,9 @@
 {
   "name": "mlvl-colors",
   "ignore": [],
-  "dependencies": {}
+  "dependencies": {},
+  "main": "colors.js",
+  "scripts": [
+    "colors.js"
+  ],
 }
