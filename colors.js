@@ -38,14 +38,14 @@ var mlvlColors = {
         '#9B59B6',
         '#744389'
     ],
-    'blueShades': [ // based on peter river
+    'yellowShades': [ // based on sunflower
         '#FCF3CF',
         '#F9E79F',
         '#F7DC6F',
         '#F4D03F',
         '#F1C40F'
     ],
-    'yellowShades': [ // based on sunflower
+    'blueShades': [ // based on peterriver
         '#1A4C6E',
         '#2772A4',
         '#3498DB',
